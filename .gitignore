@@ -1,0 +1,4 @@
+*.pyc
+.idea/
+project_venv/
+db.sqlite3
